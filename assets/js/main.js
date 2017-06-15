@@ -39,9 +39,9 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'http://demo.sna.org.pe/media/slide/no-dejes-que-nuestra-anchoveta-desaparezca-lucha-con-nosotros_Ieu5Bcq.jpg.1920x810_q85.jpg': 'top',
-							'http://demo.sna.org.pe/media/slide/la-anchoveta-potencial-economico-para-el-peru_x11sK3p.jpg.1920x810_q85.jpg': 'center',
-							'http://demo.sna.org.pe/media/slide/protegiendo-la-anchoveta-peruana_qNgN8k4.jpg.1920x810_q85.jpg': 'center'
+							'https://demo.sna.org.pe/media/slide/no-dejes-que-nuestra-anchoveta-desaparezca-lucha-con-nosotros_Ieu5Bcq.jpg.1920x810_q85.jpg': 'top',
+							'https://demo.sna.org.pe/media/slide/la-anchoveta-potencial-economico-para-el-peru_x11sK3p.jpg.1920x810_q85.jpg': 'center',
+							'https://demo.sna.org.pe/media/slide/protegiendo-la-anchoveta-peruana_qNgN8k4.jpg.1920x810_q85.jpg': 'center'
 						},
 
 					// Delay.
